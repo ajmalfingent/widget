@@ -1,5 +1,5 @@
  (function () {
-        const chatbotUrl = "http://localhost:3000"; // Change to your deployed URL
+        const chatbotUrl = "https://shimmer-chat-bubble.lovable.app"; // Change to your deployed URL
 
         function initChatbot() {
             console.log(window.location.origin)
